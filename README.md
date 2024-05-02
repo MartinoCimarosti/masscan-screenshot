@@ -18,7 +18,7 @@ How it Works
 On linux systems (debian - ubuntu)
 sudo apt-get install wkhtmltopdf
 
-On windows downlaod and add to path.
+On windows downlod and add to path.
 https://wkhtmltopdf.org/downloads.html
 ```
 Usage example
