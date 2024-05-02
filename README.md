@@ -1,6 +1,7 @@
 # masscan-screenshot
 
-Utility to make screenshots out of masscan json output
+Utility to make screenshots out of masscan json output.
+
 I made this in a couple hours and have no intention to mantain or update it
 
 This project is designed to facilitate the visualization of data from Masscan JSON output.
